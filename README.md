@@ -1,8 +1,11 @@
 # vue-starter
 
 > A Vue.js starter kit.
+
 > axios
+
 > vuex
+
 > less
 
 ## Build Setup
