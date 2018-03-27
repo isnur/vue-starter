@@ -1,9 +1,5 @@
 import axios from 'axios'
 
-const BASE_GR_API_URL = process.env.BASE_GR_API
-
-axios.defaults.baseURL = BASE_GR_API_URL
-
 export default {
   get (url, request) {
     return axios.get(url, request)
